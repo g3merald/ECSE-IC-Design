@@ -3,7 +3,7 @@ project:
   wokwi_id:     459583252048497665       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "Grace Wokwi design"      # Project title
   author:       "Grace Moriarty"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "Adds three inputs (A, B, and C-IN) and produces two outputs (C-OUT and SUM)."      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "2-Input AND gate with LED as output"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
